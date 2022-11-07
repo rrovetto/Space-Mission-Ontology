@@ -1,5 +1,8 @@
 # The Space Mission Ontology / The Astronautical Mission Ontology 
 
+## Author
+Robert J. Rovetto
+
 ## About
 An ontology providing annotations and representations of types of space missions, their objectives, their parts, etc., and mission design aspects. 
 
